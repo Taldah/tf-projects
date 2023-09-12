@@ -2,4 +2,4 @@
 .terraform/
 .git
 *.tfstate.*
-.terraform.*
+terraform.*
