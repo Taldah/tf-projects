@@ -1,0 +1,5 @@
+*.exe
+.terraform/
+.git
+*.tfstate.*
+.terraform.*
